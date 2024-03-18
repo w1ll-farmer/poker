@@ -63,6 +63,5 @@ def is_royal_flush(s1, c1, s2, c2, s3, c3, s4, c4, s5, c5):
             return True
     return False
 
-print(is_royal_flush(1,10,1,11,1,12,1,13,1,14))
-print(is_straight(13,14,2,3,4))
+
 
